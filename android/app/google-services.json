@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035333586208",
+    "project_id": "kec-contacts-fd311",
+    "storage_bucket": "kec-contacts-fd311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035333586208:android:7020b32623f12aec18db45",
+        "android_client_info": {
+          "package_name": "com.example.contacts_app_kec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035333586208-rd6pocupe628lpsdim2f58ipnkmsam7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbxd9UMo8bdGoTjAIS7C0eY4Al9_yhno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035333586208-rd6pocupe628lpsdim2f58ipnkmsam7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
